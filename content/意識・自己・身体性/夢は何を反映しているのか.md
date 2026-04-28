@@ -11,9 +11,9 @@ tags:
   - obsidian
 created: "2026-04-27"
 updated: "2026-04-27"
-draft: true
-publish: false
-status: draft
+draft: false
+publish: true
+status: published
 enableToc: true
 ---
 
